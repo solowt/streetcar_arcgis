@@ -1,0 +1,23 @@
+{
+  "name": "streetcar_arcgis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solowt/streetcar_arcgis.git"
+  },
+  "author": "ts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solowt/streetcar_arcgis/issues"
+  },
+  "homepage": "https://github.com/solowt/streetcar_arcgis#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.69.0"
+  }
+}
